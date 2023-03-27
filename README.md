@@ -18,10 +18,14 @@
   <img src="https://user-images.githubusercontent.com/110976504/227823296-65ef111d-d7ce-42d3-aec6-738ea55bf9c8.png" style="max-width: 30%;">
   </a>
   
+  
+  
  - 로그인 - 카카오 로그인 API를 이용해 소셜 네트워크 로그인 기능을 구현했습니다.
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227823836-a0fd9669-ddea-4e3e-93f3-b03a40cb725b.png">
   <img src="https://user-images.githubusercontent.com/110976504/227823836-a0fd9669-ddea-4e3e-93f3-b03a40cb725b.png" style="max-width: 30%;">
   </a>
+  
+  
   
  - 게시판(리뷰,Q&A) - 제품 상세 페이지 하단에 탭 방식으로 구현 해당 상품에 대한 한줄평과 별점 방식으로 평점을 매길 수 있습니다.
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png">
