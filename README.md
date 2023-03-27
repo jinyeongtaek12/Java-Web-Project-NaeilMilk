@@ -12,7 +12,7 @@ java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap
 
 주요기능
 
-1.회원
+ 1.회원
  - 회원가입 - 다음 주소 검색 API를 활용했습니다
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227823296-65ef111d-d7ce-42d3-aec6-738ea55bf9c8.png">
   <img src="https://user-images.githubusercontent.com/110976504/227823296-65ef111d-d7ce-42d3-aec6-738ea55bf9c8.png" style="max-width: 30%;">
@@ -28,6 +28,12 @@ java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap
   <img src="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png" style="max-width: 30%;">
   </a>
    
-   
- - 검색
+   ![image](https://user-images.githubusercontent.com/110976504/227825511-685b6427-53ba-4bd1-9f11-733e9ba06b2c.png)
 
+   
+  2.관리자
+   - 상품 작성및 수정, 회원 관리, 주문 정보처리
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227825511-685b6427-53ba-4bd1-9f11-733e9ba06b2c.png">
+  <img src="https://user-images.githubusercontent.com/110976504/227825511-685b6427-53ba-4bd1-9f11-733e9ba06b2c.png" style="max-width: 30%;">
+  </a>
+   
