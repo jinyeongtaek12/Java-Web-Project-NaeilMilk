@@ -1,4 +1,7 @@
 # Java-Web-Project-NaeilMilk
+
+[Notion]https://chambray-century-c20.notion.site/1be526a961a445ed802892212d2c3d3c
+
 <h3>내일우유 쇼핑몰 팀 프로젝트</h3>
 
 <p dir="auto">
