@@ -10,7 +10,6 @@
 주요 개발환경
 java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap
 
-주요기능
 
  1.회원
  - 회원가입 - 다음 주소 검색 API를 활용했습니다
