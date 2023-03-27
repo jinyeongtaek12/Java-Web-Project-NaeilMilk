@@ -26,7 +26,7 @@ java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png">
   <img src="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png" style="max-width: 30%;">
   </a>
-   
+   <b>
   2.관리자
    - 상품 작성및 수정, 회원 관리, 주문 정보처리
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227825511-685b6427-53ba-4bd1-9f11-733e9ba06b2c.png">
