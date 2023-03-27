@@ -8,8 +8,7 @@
 </p>
 
 주요 개발환경
-java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap
-
+<pre>java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap</pre>
 
  <h3>1.회원</h3>
  - 회원가입 - 다음 주소 검색 API를 활용했습니다
