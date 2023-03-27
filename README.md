@@ -21,9 +21,12 @@ java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227823836-a0fd9669-ddea-4e3e-93f3-b03a40cb725b.png">
   <img src="https://user-images.githubusercontent.com/110976504/227823836-a0fd9669-ddea-4e3e-93f3-b03a40cb725b.png" style="max-width: 30%;">
   </a>
+  ![image](https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png)
+
+  
  - 게시판(리뷰,Q&A)
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227824464-15bdae23-8b81-4299-9a1e-5ee13aea02d4.png">
-  <img src="ttps://user-images.githubusercontent.com/110976504/227824464-15bdae23-8b81-4299-9a1e-5ee13aea02d4.png" style="max-width: 30%;">
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png">
+  <img src="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png" style="max-width: 30%;">
   </a>
    
    
