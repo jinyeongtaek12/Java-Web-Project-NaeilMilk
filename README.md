@@ -11,7 +11,7 @@
 java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap
 
 
- 1.회원
+ <h3>1.회원</h3>
  - 회원가입 - 다음 주소 검색 API를 활용했습니다
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227823296-65ef111d-d7ce-42d3-aec6-738ea55bf9c8.png">
   <img src="https://user-images.githubusercontent.com/110976504/227823296-65ef111d-d7ce-42d3-aec6-738ea55bf9c8.png" style="max-width: 30%;">
