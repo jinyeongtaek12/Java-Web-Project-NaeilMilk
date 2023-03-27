@@ -7,7 +7,8 @@
   </a>
 </p>
 
-주요 개발환경
+
+<h3>주요 개발환경</h3>
 <pre>java, Oracle, JSP, Mybatis, jQuery, Tiles, bootstrap</pre>
 
  <h3>1.회원</h3>
