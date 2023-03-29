@@ -39,7 +39,7 @@
   </a>
   </p>
   
-  "https://user-images.githubusercontent.com/110976504/228431627-addbcc0a-d544-4c5b-868d-35f14f72821e.png"
+  ![image](https://user-images.githubusercontent.com/110976504/228432820-7651105c-77cb-4795-b9ac-0fb943fac984.png)
   
   <h3>2.관리자</h3>
   
