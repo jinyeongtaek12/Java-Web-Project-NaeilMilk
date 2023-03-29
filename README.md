@@ -39,11 +39,13 @@
   </a>
   </p>
   
+  "https://user-images.githubusercontent.com/110976504/228431627-addbcc0a-d544-4c5b-868d-35f14f72821e.png"
+  
   <h3>2.관리자</h3>
   
    - 관리자 계정으로 로그인 시 화면 상단 관리자 기능 활성화
      <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/228431627-addbcc0a-d544-4c5b-868d-35f14f72821e.png">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/228431627-addbcc0a-d544-4c5b-868d-        35f14f72821e.png">
   <img src="https://user-images.githubusercontent.com/110976504/228431627-addbcc0a-d544-4c5b-868d-35f14f72821e.png" style="max-width: 30%;">
   </a>
   </p>
