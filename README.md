@@ -43,7 +43,7 @@
   
    - 관리자 계정으로 로그인 시 화면 상단 관리자 기능 활성화
      <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/228432820-7651105c-77cb-4795-b9ac-0fb943fac984.png">
+    <a target="_blank" rel="noopener noreferrer nofollow">
   <img src="https://user-images.githubusercontent.com/110976504/228432820-7651105c-77cb-4795-b9ac-0fb943fac984.png" style="max-width: 30%;">
   </a>
   </p>
