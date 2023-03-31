@@ -130,7 +130,7 @@ public class MemberControllerImpl extends BaseController implements MemberContro
 	@Override
 	@RequestMapping(value="/overlapped.do", method = RequestMethod.POST)
 	public ResponseEntity overlapped(@RequestParam("id") String id,
-									 HttpServletRequest request, HttpServletResponse response) throws Exception{
+									 HttpServletRequest request, HttpServletResponse response) throws Exception {
 		ResponseEntity resEntity = null;
 		String result = memberService.overlapped(id); // ID 중복 검사를 합니다.
 		resEntity = new ResponseEntity(result, HttpStatus.OK);

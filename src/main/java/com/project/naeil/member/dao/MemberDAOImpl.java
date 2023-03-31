@@ -18,7 +18,7 @@ public class MemberDAOImpl  implements MemberDAO{
 	
 	//로그인
 	@Override
-	public MemberVO login(Map loginMap) throws DataAccessException{
+	public MemberVO login(Map loginMap) throws DataAccessException {
 		MemberVO member=(MemberVO)sqlSession.selectOne("mapper.member.login",loginMap);
 		
 	    return member;
@@ -26,7 +26,7 @@ public class MemberDAOImpl  implements MemberDAO{
 	
 	//회원가입
 	@Override
-	public void insertNewMember(MemberVO memberVO) throws DataAccessException{
+	public void insertNewMember(MemberVO memberVO) throws DataAccessException {
 		sqlSession.insert("mapper.member.insertNewMember",memberVO);
 	}
 

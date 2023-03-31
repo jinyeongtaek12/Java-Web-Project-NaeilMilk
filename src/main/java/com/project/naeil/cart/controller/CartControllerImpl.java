@@ -22,7 +22,7 @@ import com.project.naeil.member.vo.MemberVO;
 
 @Controller("cartController")
 @RequestMapping(value="/cart")
-public class CartControllerImpl extends BaseController implements CartController{
+public class CartControllerImpl extends BaseController implements CartController {
 	@Autowired
 	private CartService cartService;
 	@Autowired
@@ -47,11 +47,12 @@ public class CartControllerImpl extends BaseController implements CartController
 		//mav.addObject("cartMap", cartMap);
 		return mav;
 	}
+	
 	@RequestMapping(value="/addGoodsInCart.do", method = RequestMethod.POST, produces = "application/text; charset=utf8")
 												// 전송된 상품 번호를 받습니다.
 	public @ResponseBody String addGoodsInCart(@RequestParam("goods_id") int goods_id, 
 											   @RequestParam("order_goods_qty") int order_goods_qty,
-			                    			   HttpServletRequest request, HttpServletResponse response)  throws Exception{
+			                    			   HttpServletRequest request, HttpServletResponse response)  throws Exception {
 		HttpSession session=request.getSession();
 		memberVO=(MemberVO)session.getAttribute("memberInfo");
 		String member_id=memberVO.getMember_id();
@@ -77,7 +78,7 @@ public class CartControllerImpl extends BaseController implements CartController
 	@RequestMapping(value="/modifyCartQty.do" ,method = RequestMethod.POST)
 	public @ResponseBody String modifyCartQty(@RequestParam("goods_id") int goods_id,
 			                                  @RequestParam("cart_goods_qty") int cart_goods_qty,
-			                                  HttpServletRequest request, HttpServletResponse response) throws Exception{
+			                                  HttpServletRequest request, HttpServletResponse response) throws Exception {
 		HttpSession session=request.getSession();
 		memberVO=(MemberVO)session.getAttribute("memberInfo");
 		String member_id=memberVO.getMember_id();
@@ -96,7 +97,7 @@ public class CartControllerImpl extends BaseController implements CartController
 	
 	@RequestMapping(value="/removeCartGoods.do" ,method = RequestMethod.POST)
 	public ModelAndView removeCartGoods(@RequestParam("cart_id") int cart_id,
-			                            HttpServletRequest request, HttpServletResponse response)  throws Exception{
+			                            HttpServletRequest request, HttpServletResponse response)  throws Exception {
 		ModelAndView mav=new ModelAndView();
 		cartService.removeCartGoods(cart_id);
 		mav.setViewName("redirect:/cart/myCartList.do");
