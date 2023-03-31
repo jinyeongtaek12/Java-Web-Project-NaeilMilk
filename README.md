@@ -32,7 +32,7 @@
   </p>
   
   
- - 게시판(리뷰,Q&A) - 제품 상세 페이지 하단에 탭 방식으로 구현 해당 상품에 대한 한줄평과 별점 방식으로 평점을 매길 수 있습니다. 해당 상품 리뷰글과 별점은 메인페이지의 각 상품 리뷰수와 평균별점에 반영되어 나옵니다.
+ - 게시판(리뷰,Q&A) - 기본 CRUD 기능을 반영,제품 상세 페이지 하단에 탭 방식으로 구현 해당 상품에 대한 한줄평과 별점 방식으로 평점을 매길 수 있습니다. 해당 상품 리뷰글과 별점은 메인페이지의 각 상품 리뷰수와 평균별점에 반영되어 나옵니다.
  <p dir="auto">
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png">
   <img src="https://user-images.githubusercontent.com/110976504/227824765-c8cd44be-2a2d-48d7-a567-260baca011ad.png" style="max-width: 30%;">
