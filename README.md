@@ -4,9 +4,11 @@
 
 <h3>내일우유 쇼핑몰 팀 프로젝트</h3>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/112805025/226258329-41eb973e-5d8c-46b2-a1ef-21bdf45c015a.png"><img src="https://user-images.githubusercontent.com/112805025/226258329-41eb973e-5d8c-46b2-a1ef-21bdf45c015a.png" width="550" style="max-width: 100%;"></a></p>
+
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227822736-8ce9761d-d5a3-4dbb-8731-376df145584a.png">
-  <img src="https://user-images.githubusercontent.com/110976504/227822736-8ce9761d-d5a3-4dbb-8731-376df145584a.png" style="max-width: 30%;">
+  <img src="https://user-images.githubusercontent.com/110976504/227822736-8ce9761d-d5a3-4dbb-8731-376df145584a.png" width="550" style="max-width: 100%;">
   </a>
 </p>
 
