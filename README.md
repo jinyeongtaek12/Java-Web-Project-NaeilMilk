@@ -42,6 +42,7 @@
   </a>
   </p>
   
+  ***
   
  - 게시판(리뷰,Q&A) - 기본 CRUD 기능을 반영,제품 상세 페이지 하단에 탭 방식으로 구현 해당 상품에 대한 한줄평과 별점 방식으로 평점을 매길 수 있습니다. 해당 상품 리뷰글과 별점은 메인페이지의 각 상품 리뷰수와 평균별점에 반영되어 나옵니다.
  <p dir="auto">
@@ -58,12 +59,16 @@
   <img src="https://user-images.githubusercontent.com/110976504/228432820-7651105c-77cb-4795-b9ac-0fb943fac984.png" width="550" style="max-width: 100%;">
   </p>
   
+  ***
+  
    - 상품 작성및 수정, 회원 관리, 주문 정보처리
    <p dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227825511-685b6427-53ba-4bd1-9f11-733e9ba06b2c.png">
   <img src="https://user-images.githubusercontent.com/110976504/227825511-685b6427-53ba-4bd1-9f11-733e9ba06b2c.png" width="550" style="max-width: 100%;">
   </a>
   </p>
+  
+  ***
   
   <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
             <article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-오늘의꽃-쇼핑몰-팀장" class="anchor" aria-hidden="true" href="#오늘의꽃-쇼핑몰-팀장"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>오늘의꽃 (쇼핑몰) 팀장</h1>
