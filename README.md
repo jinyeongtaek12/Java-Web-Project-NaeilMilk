@@ -8,7 +8,7 @@
 
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227822736-8ce9761d-d5a3-4dbb-8731-376df145584a.png">
-  <img src="https://user-images.githubusercontent.com/110976504/227822736-8ce9761d-d5a3-4dbb-8731-376df145584a.png" width="550" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/110976504/227822736-8ce9761d-d5a3-4dbb-8731-376df145584a.png" style="max-width: 30%;">
   </a>
 </p>
 
